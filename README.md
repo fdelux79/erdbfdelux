@@ -4,7 +4,7 @@ emoji: 🎬
 colorFrom: blue
 colorTo: red
 sdk: docker
-app_port: 3000
+app_port: 7860
 ---
 # Easy Ratings Database (ERDB) - Stateless Edition
 
@@ -22,7 +22,7 @@ cd erdb
 1. Install dependencies: `npm install`
 2. Build: `npm run build`
 3. Start the app: `npm run start`
-4. App available at `http://localhost:3000`
+4. App available at `http://localhost:7860`
 
 ## Scalability & Docker
 
