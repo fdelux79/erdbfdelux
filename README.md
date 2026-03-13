@@ -1,3 +1,11 @@
+---
+title: ERDB - Easy Ratings Database
+emoji: 🎬
+colorFrom: blue
+colorTo: red
+sdk: docker
+app_port: 3000
+---
 # Easy Ratings Database (ERDB) - Stateless Edition
 
 ERDB generates poster/backdrop/logo images with dynamic ratings on-the-fly.
